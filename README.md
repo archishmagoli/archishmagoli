@@ -18,5 +18,6 @@
 - I'm also an undergraduate researcher in the **Technologies & International Development Lab**, under Dr. Michael Best.
 
 ### How To Reach Me 📪
-- LinkedIn: https://www.linkedin.com/in/archishma-goli/
-- Website: https://archishmagoli.github.io/portfolio/
+- [LinkedIn](https://www.linkedin.com/in/archishma-goli/)
+- [Email](mailto:archishma.goli@gmail.com)
+- [Website](https://archishmagoli.github.io/portfolio/)
