@@ -1,4 +1,4 @@
-# Hi there! I'm Archie Goli. 👋
+# Hi there! I'm Archishma (Archie) Goli. 👋
 
 ### My Current Projects
 - [QuakeCaster Earthquake Simulator](https://github.com/archishmagoli/QuakeCaster)
