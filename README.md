@@ -17,6 +17,9 @@
 - I'm a current **Data Analytics & Visualization Intern** at MedTrans Go, a **budding startup** within Georgia Tech's world-renowned startup incubator.
 - I'm also an undergraduate researcher in the **Technologies & International Development Lab**, under Dr. Michael Best.
 
+### My Past Projects 👩🏽‍💻
+- [Tic-Tac-Toe with AI](https://github.com/archishmagoli/TicTacToe_AI)
+
 ### How To Reach Me 📪
 - [LinkedIn](https://www.linkedin.com/in/archishma-goli/)
 - [Email](mailto:archishma.goli@gmail.com)
