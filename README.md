@@ -1,4 +1,4 @@
-# Hi there! I'm Archishma (Archie) Goli. 👋
+# Hi there! I'm Archie Goli. 👋
 
 ### My Interests 😃
 - **Quantitative Finance, DeFi, crypto, Web3** - all things fintech-related.
@@ -10,12 +10,8 @@
 
 ### What I'm Learning Now 📖
 - Delving deeper into **Web3, crypto, and DeFi** through bootcamps and programs across the web.
-- Completing the **IBM Data Analytics Professional Certificate** to reinforce my proficiency in today's most innovative analytics tools and libraries.
+- Completing the **IBM Data Science Professional Certificate** to reinforce my proficiency in today's most innovative data science tools and libraries.
 - As always, I'm **building projects** to continue immersing myself in the areas I'm interested in!
-
-### Other Current Endeavors 🌻
-- I'm a current **Data Analytics & Visualization Intern** at MedTrans Go, a **budding startup** within Georgia Tech's world-renowned startup incubator.
-- I'm also an undergraduate researcher in the **Technologies & International Development Lab**, under Dr. Michael Best.
 
 ### How To Reach Me 📪
 - [LinkedIn](https://www.linkedin.com/in/archishma-goli/)
