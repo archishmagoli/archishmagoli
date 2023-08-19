@@ -6,6 +6,7 @@
 
 ### My Projects 👩🏽‍💻
 - [QuakeCaster Earthquake Simulator](https://github.com/archishmagoli/QuakeCaster)
+- [AllerGEN](https://github.com/archishmagoli/allergen)
 - [Tic-Tac-Toe with AI](https://github.com/archishmagoli/TicTacToe_AI)
 
 ### What I'm Learning Now 📖
