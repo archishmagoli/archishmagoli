@@ -1,8 +1,8 @@
 # Hi there! I'm Archie Goli. 👋
 
 ### My Interests 😃
-- **Quantitative Finance, DeFi, crypto, Web3** - all things fintech-related.
 - **Data Science, Analytics, AI/ML** - I'm currently specializing in artificial intelligence through my coursework and research.
+- **Quantitative Finance, DeFi, crypto, Web3** - all things fintech-related.
 
 ### My Projects 👩🏽‍💻
 - [SpaceX Falcon-9 Rocket Launch Analytics + Predictions](https://github.com/archishmagoli/Falcon-9LaunchPrediction)
